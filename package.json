@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-select",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "select",
+    "description": ""
+  },
+  "main": "main.js"
+}
